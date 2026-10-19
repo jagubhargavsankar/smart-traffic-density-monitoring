@@ -115,7 +115,7 @@ This project is licensed under the **MIT License**.
 
 **Bhargava Sankar Jagu**
 
-- GitHub: https://github.com/jagubhargavasankar2005-lgtm
+- GitHub: https://github.com/jagubhargavsankar
 - LinkedIn: https://www.linkedin.com/in/bhargava-sankar-jagu
 
 ---
